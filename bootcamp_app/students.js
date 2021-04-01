@@ -25,5 +25,3 @@ LIMIT $2;
   })
 })
 .catch(err => console.error('query error', err.stack));
-
-
